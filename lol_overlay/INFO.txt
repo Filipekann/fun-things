@@ -1,5 +1,8 @@
 NOT DONE
 
+Need development API key from RIOT.
+https://developer.riotgames.com
+
 pip install riotwatcher
 
 Create your own API key.

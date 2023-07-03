@@ -1,0 +1,9 @@
+NOT DONE
+
+pip install riotwatcher
+
+Create your own API key.
+
+1. Create an overlay that will show who is on a losing spree in both thte enemy team and friendly team.
+
+2. Create an overlay that will indicate each lanes state

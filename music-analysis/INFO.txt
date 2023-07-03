@@ -1,0 +1,14 @@
+NOT DONE
+
+So the Idea here is: 
+
+From a spotify playlist to excel, (DONE)
+
+with one click I want the entire playlist downloaded, (Beatport and Itunes?)
+
+their volume equalised, (Platinum notes?)
+
+each songs key found (Mix and Key?)
+
+and the analyzied by rekordbox. 
+

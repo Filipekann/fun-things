@@ -1,6 +1,26 @@
 import time
 from riotwatcher import LolWatcher
 
+#Psudo kod:
+"""
+Vi kollar först vem är spelaren.
+Vilka i hens game är med?
+Gör en for loop som går igenom varje spelare förutom sig själv
+    I loopen kallar vi på en funktionen suger du
+    resultatet från du suger kopplas till spelarens namn via en dict
+
+print dict eller lägg dict i en txt fil som vi kan jobba med sen.
+    
+
+def suger du(spelare):
+    if sats om spelaren har förlorat flera games i rad:
+        return ja han suger.
+    else 
+        return nä han e bra.
+
+
+"""
+
 # Replace 'YOUR_API_KEY' with your actual API key
 api_key = 'RGAPI-6bd202f1-ab1a-4621-af66-aa559db331f8'
 region = 'euw1'  # e.g., 'na1', 'euw1', 'kr', etc.

@@ -1,0 +1,82 @@
+{
+    "BobbyNugget": {
+        "id": "HfZXGvAUwtnoS-6RgqK0vdEm7h2Y0oPI_Jygao2NpAweiBw",
+        "accountId": "aGn2reAbbiu4s5_6NiRgcXVS_XbokDVIKDuJdhBdtG5Ghg",
+        "puuid": "KBNTraTYEHCABQo7BSIvQDeFh2de9uuXdwle8EFpDiYvBC1nWQuA5RKhvdr00Gksl2AlEw_rKfn-yA",
+        "teamId": 100,
+        "championId": 1,
+        "loss_streak": 1
+    },
+    "S\u0153ur Biquette": {
+        "id": "jNESVUGDBNPccW8DOrTPKkPgxqzbrnWvHrdISczWQ1Z3rfc",
+        "accountId": "ouI7_h9foNGK70XV3vNJAD9a4K_ZXYzMnkfz9vOnK7GxCQ",
+        "puuid": "oJrd3oar6NenLZ7owi8k9ghS6-o9zlwF8mTmNggoyFSG9wsKLz0xcYntCVb3OpPiZADNiqi69t0pzw",
+        "teamId": 100,
+        "championId": 161,
+        "loss_streak": 1
+    },
+    "Real\u03b7iggaGaming": {
+        "id": "VqH8KD7nWMTBdCfNb9VkCmtgf8-6e4WGc7UnK3uHRvQVNaY",
+        "accountId": "YlVscWV9htptVstFZ9qVntDFuoRlYDwKagWEhnCNa_q8yqI",
+        "puuid": "x3rS7LRN-9JK1fIt_myRLFrUP3fMMRbgA9bxO0CT24YGHL4T6MoKBeg3mW_vjrzXT0bm6ir3sUbBvw",
+        "teamId": 100,
+        "championId": 777,
+        "win_streak": 2
+    },
+    "lmDanieel": {
+        "id": "SXBOe511j0J44Ql3g3x3fxh601DRtuM_qBTVqQpuUZRN7xY",
+        "accountId": "kKAAIi-ZArSnT98yETyKWhGRgY0D15zQJIrYU5GVmso_SA",
+        "puuid": "AF7w9aMwNyxIElcCaFYdy4Uha6S24ViW6hFAnucwDf0yYL396WkynieK2oHfozAk2mCP92-j84iOtA",
+        "teamId": 100,
+        "championId": 876,
+        "loss_streak": 1
+    },
+    " The Brank": {
+        "id": "TkOAbOjkMbQmAOTTpY9jDO4WNm5t0yc3F0JCzQ1rMDy6C30",
+        "accountId": "JgoBB1VRW08I4faLJSgYo52fe2_GWcLSSSr8IufBK1Bw0Q",
+        "puuid": "AlW58-3mC9HWENXV1-7f6OwCpS1kiu0QPBMoGppByC1rBIL4tJd3CURVjc-C0pZXXM-3eqOBNLU0OA",
+        "teamId": 100,
+        "championId": 360,
+        "loss_streak": 1
+    },
+    "der schwarz": {
+        "id": "MDZUUqFGmD-v-BwH-fN1orvxqgdlSiMhk6LutVlXXZqitAs",
+        "accountId": "78XMeRDlttY7tGHmCdrMNzZjAz87EwzV8WCIX10RwwQFCw",
+        "puuid": "t6M2Rbb3MWH8y1Zyy0p4hKvzDCbpLNKdtMqs4J2_zc88qs5hzQ7KneSpf3cgiOrc_nAyHaIHXSESfw",
+        "teamId": 200,
+        "championId": 497,
+        "loss_streak": 1
+    },
+    "LL Elite LLL": {
+        "id": "eEF2DVbhXj4NgQEUZjNS_5FrreAGQlC4uvc7WFCXtEtzea2o",
+        "accountId": "QrB_V3oOi2Py16XNfNceNd_wPae4ReGt18CCjluBSnLBDC0K2VudkBkJ",
+        "puuid": "3upARNjbO_G1DlGyHztPNkDzN-JU417DV4TWW8zyqf-PyTxIbfYoCkdYl6YcAT-IRiahIRyngOxw1Q",
+        "teamId": 200,
+        "championId": 85,
+        "win_streak": 5
+    },
+    "drippingc\u00f3ck": {
+        "id": "Gf-g2sm94A1OYaaQQ6Ewk1-ey4oOVCehbWVbarxIpPHrgco7",
+        "accountId": "gZZMrGJaEwi3ttt6tLlP94Nf_TaoJ19oHLdr3j52gitWgOk",
+        "puuid": "7jJTHlzKd5gkGAu4WB4SaJGNi7GzjbFUhhk3Gwta1ElkKjoQIUjpyDyIJQ6bC1zRQ-1ROwqaMrK9Xg",
+        "teamId": 200,
+        "championId": 120,
+        "loss_streak": 1
+    },
+    "Super Dumb Rat": {
+        "id": "rrltem1Csi5B_md3myKhC9FbBqzhAv-7nkLpLqATJtjU2aQ",
+        "accountId": "7DHqTG8QKBJjwGsDoslm3F__DS4xBzVLmSUUBWP9-M8z-fI",
+        "puuid": "ccr6xufSGIQtznqzYgdSvlBsqd9E5avOvLv0_KyvHfS-sbURGUXoDirrfaKuRn28IumwkVp2x2x1pw",
+        "teamId": 200,
+        "championId": 498,
+        "loss_streak": 1
+    },
+    "LL STYLISH PRRR": {
+        "id": "NyhoXmoCYBzAC41gOkskkF_INYuH5JsdNaP6GNk6kQb-J5A",
+        "accountId": "P4sQPOMYGoUmolFROwtxqrukGGW9Lk18N045tUSyITuOGiE",
+        "puuid": "gRlF5yHNLJL02lrtQ12k4ZeB1rqpyLDu6aNzJBkTBOoK6iC5VWySjaS5w1aqQdK9g46f5TRgC2CnYw",
+        "teamId": 200,
+        "championId": 238,
+        "win_streak": 4
+    }
+}

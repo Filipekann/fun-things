@@ -1,0 +1,82 @@
+{
+    "Faiden": {
+        "id": "ZPgxn84ow4-Mjgd2LMr4x3-ITIHLOk3Pobb1SI5cKsBJN94",
+        "accountId": "qne1BmloVjY0n2CuXrjQ8TnHreVVGLHsCouVRES9PpJBBw",
+        "puuid": "OLz9oJD_iq1ahLAGEBj0S2niBFvKrRFZ6m-meuFQcq6B3KgyTPPfPxbGI638v_2SiDgG0JPe7VaPpg",
+        "teamId": 100,
+        "championId": 21,
+        "win_streak": 3
+    },
+    "WP169": {
+        "id": "ofoUYDbqkX64RGoxQ1ueERQfNwrXb82t0jkfeRiCbV1vYLk",
+        "accountId": "WLAsewi33iHuUnUrSeTP4k37evyZK0bKLp2Zzp4lSIEkEw",
+        "puuid": "fY1xesm4sCiCKfqqVglezwnIG4Jl7M4PretfZ-FVaGzrOlJcPQ5P-h7K8IbZU8g-ecUN2sm5sYOSYg",
+        "teamId": 100,
+        "championId": 80,
+        "win_streak": 4
+    },
+    "king015kong": {
+        "id": "bdSYgQDOXtpUmvNaq7dQE7pXjH05eNargdqs1SbJr-PUzJqT",
+        "accountId": "0byzhf8QDIVR2_8tbIcjtZ7DlC66XVtV3SxqUH6Pq9xO86g",
+        "puuid": "jLHAm8gKpGlYA5k4If4GdmwHYMp82epPAAhdzdb3SYphNXqJUeW5yR5cOCNtEbpwjb5KtmcBudiW3w",
+        "teamId": 100,
+        "championId": 28,
+        "loss_streak": 1
+    },
+    "Kanomire": {
+        "id": "SBYRnEi86ADba3Yu2VJBqsfHro_BNcKdaWbhaGwNjSY4OjYywZGNJIv9Xw",
+        "accountId": "QRT2pgasdiS9moBV1wiS5T41dXDr44PctCKFfCjBQM0P-tWZ9K5ybZWk",
+        "puuid": "d1heA3yaFeZiZ00BMXj6_45LF5nbjUW0g1O9UbYiEXz8CLfK4_oG3PAANkkU7JS4-Yt5bN-IYvF12g",
+        "teamId": 100,
+        "championId": 25,
+        "win_streak": 3
+    },
+    "laurentsi": {
+        "id": "qvofYKuVtv3kCNvnLd6F-HzBFc_Cp75uSr00WjjRqxbXrrVHaQ0K6O_01Q",
+        "accountId": "FMP6PpvukPuNOTPPyCg9_lBuklJfoelvPQTl3-BGHFzvQw7dK2qpCzYa",
+        "puuid": "wq7YVHBecjghDQcm_pzYeiEAsrVKkHKZqhpO1WBiVn_1jflkYV2xV9wmZwWzmS3tfkoTKQqZLd8gyA",
+        "teamId": 100,
+        "championId": 82,
+        "win_streak": 3
+    },
+    "NoosaMaan": {
+        "id": "twy2qz2NlTYOA9ijJNPGxSiPdZIic23rK4-GeY87fpdEn9I",
+        "accountId": "g-JutJgn6CtFuc6zccEcvk3LoPAQaiu3urt3Znm3MHIzuqY",
+        "puuid": "URyCPj6fmD8fA9y2X_pyI_3dMG9myQbaOYwixApRpKkCkWJSEWMQQW5liqgyBdW7gDs2f-LKaRaOaQ",
+        "teamId": 200,
+        "championId": 45,
+        "win_streak": 4
+    },
+    "nilsk444": {
+        "id": "0X92fa2I61tsmS0ZE2sUzJDiBdfeRnBt4soejH4hhSISU-P-",
+        "accountId": "yuaKm7N2LBIDEvnEHDbzYvVVPlvtcs0beWC1S_GpV6pRcfVNODB7Zcmp",
+        "puuid": "MgvRuGrwhfmvc0hHKsXENo7_nJstdRK-Wc5_mffdtK4QgPCKUJDcd9Za02U-m735WweiNZ91Ea_52w",
+        "teamId": 200,
+        "championId": 13,
+        "win_streak": 4
+    },
+    "Jas0nzo": {
+        "id": "a_rCbu29oOM5_Uf54iAEDfhUBoWEvykf7ocEXykBxV7QX6JEPYWclkCYLQ",
+        "accountId": "bGqMBIOpMuZobjw1MLSkSYG2-w6xOSs4E4cqGg5yWBlbS90oUMaYSZSt",
+        "puuid": "aIQljCYPX-9SDU4DTN19oHoUMvXctMrUXTborQn8oLa4L_RjvJNuhV-X7rLvvfXCl19U63FT5cQ5yw",
+        "teamId": 200,
+        "championId": 145,
+        "win_streak": 1
+    },
+    "Lostgirl42o": {
+        "id": "dk0YkrzJx3LbKoPCsepz5QIA9mptlN87FWBHT-cMVuTgc1TX",
+        "accountId": "o-MGvxrwQCxEQKMFJ3DDL_qGUMbjh5D2sMnjs7h7j5RqgqxGydpU3_G_",
+        "puuid": "o4C2XyoYMlDlTkTcj2Zvlydhj4Evo9WEOokGN7_GGw99k9NFNmmQTV94fVf17NIHTIfTxTp0hu-S-Q",
+        "teamId": 200,
+        "championId": 143,
+        "loss_streak": 1
+    },
+    "KratosRage96": {
+        "id": "psvKWy3oDEGa9bBZFdqycV9rnFmcVyzNJP4eZxBWG5IVVb11oghoA1vPeQ",
+        "accountId": "qOABkjUIbHhm8zX4bI7eA3ujjmeg8WWtKyOtEPDh2nUHV3aqJa9Ebfdk",
+        "puuid": "i66-Eot0hmMuo-sIpFekT4Z9MsbAs7zZP41fWZaGV_ECoqf_5a3Ykg9fRbeWsYcpF5Dk0ZGhB1KRig",
+        "teamId": 200,
+        "championId": 32,
+        "win_streak": 3
+    }
+}

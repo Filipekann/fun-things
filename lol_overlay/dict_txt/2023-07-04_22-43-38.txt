@@ -1,0 +1,82 @@
+{
+    "VegiFee": {
+        "id": "sd8q1TsgeXwFzSBDX5hQLuHKhQIiuiVrDrD1unfO2Xpj7QY",
+        "accountId": "KMrW97l3-gbJvfsaXjvgPJ42TJn3oNy3UmN77PMrGWEoJA",
+        "puuid": "sFNE5PMlpp-W6aBwrW_icMS2zoC0XamxUUzsM-YalL3pIVuRfxLz-pNUe72IpR-pm-dfets3KLSKvA",
+        "teamId": 100,
+        "championId": 420,
+        "win_rate": 20.0
+    },
+    "F\u03b1ye Mont\u03b1n\u03b1": {
+        "id": "fsehXAutFsvOyPbVzTt7Ah_9oz5Qxibdjohvl-rwxFcNtx8",
+        "accountId": "TB6op1Y178C2wzP0ydgp0zse3_7mUt7K057Mwv2-UBWNtN8",
+        "puuid": "rIMZUT8tquonqLZ1GPTPhxCJVAxOKZiYf6qShA1v5Wa7hsUO-thjKisYH_gNOsVK62BIc69T7_IpEg",
+        "teamId": 100,
+        "championId": 112,
+        "win_rate": 40.0
+    },
+    "Minibavian": {
+        "id": "7EnQ8akIXVb4LYRLW8lNi8i7GBIhy1vXpcEfD7NYrc8fsyI",
+        "accountId": "Mh62jST4StNauEzpgbecl2c4A1si8MmMnOmAju7pjzjAFYk",
+        "puuid": "IlmQ4IPAT8ri0AdXe3Thzn-L6migq5CnRdPDxCMCgasf054pYMaxOOge08eW9NGcwb_1WKWixRR2hQ",
+        "teamId": 100,
+        "championId": 145,
+        "win_rate": 80.0
+    },
+    "Minihest": {
+        "id": "UcUfsT-Czkx_MKuhhK4VDQ-1XnfJZo1SUUPEZD1L5m_QLos",
+        "accountId": "-b82xZuN5NdGBb23Sh4mZGj0gxPfD1Y_Olkkf6NzSSMO7gw",
+        "puuid": "iahnaPTamJ8RlAaPwbSj-5EFQbVDh2ICV4PGdrcc-qeQbO7PAFnJ1cpIxnY_FFeGQ8GFpvsBKh2E2w",
+        "teamId": 100,
+        "championId": 111,
+        "win_rate": 80.0
+    },
+    "Minisau": {
+        "id": "1aJeisazKj14LH9kpgRCsC4dnpF5-GR1lRDhkF482ZZWFlk",
+        "accountId": "6KDB7N3DhmN9kh2Jv6ytnv_mLiYZgARc1_KBEXx8VM7AIm0",
+        "puuid": "Iy2PC3D_EqYQ7Ohr-73GVPhEe-NoTGw_4b3u4ubQ7TxF1YZ4qbbJPpepYZZu2s03Dcqw_yjgTdmjAw",
+        "teamId": 100,
+        "championId": 421,
+        "win_rate": 60.0
+    },
+    "LiNoKami": {
+        "id": "SoOxo1As3ge3uJa9VpX-RnLzZ4iOu4j2iSKvN5PJkOF7ObA",
+        "accountId": "oGzWZCZE8ihTuMVOIycnV9OWT0qiUi-xCgqW6zR4JvYwInw",
+        "puuid": "l0wLeNlA1reVgFRCOj4ImBwft-vkEmfXJMxm7dcvuFRd5rMWiotHEDjHVAotjvlkpmKyfQIvgsQtRg",
+        "teamId": 200,
+        "championId": 92,
+        "win_rate": 100.0
+    },
+    "tomseli": {
+        "id": "EkoA1kKxeglSWQ553Ak-tInOazXIEDwSOg3IrIyU316HXGs",
+        "accountId": "7J4B1rDWwOgCqlBPlR60jtNP6YbLvVWlBChdJqCGGJszag",
+        "puuid": "TQwWajZuZ4sC-UTMfURPWImHA7fQAqK6Z5KMxtIyeRVUHB8G8v90GzDXx1GMWj844OvQC3OLyxtGVQ",
+        "teamId": 200,
+        "championId": 34,
+        "win_rate": 60.0
+    },
+    "The Shadow Lord": {
+        "id": "H8ML6okp6dzIWGP6Lxjje35ltHrD091ELysUD2r8trDkFO0",
+        "accountId": "2to_UaeDFvsqieg53PDQ-IRPv1spm3AJkgYmjavZQctyaR8",
+        "puuid": "YoLJ3jafesPSRtb-II0Hwbnr8GVyht0G90NdRzbXiQXoh34lUPNuMWhPMP0vjv-HFlzPL58PoT7keg",
+        "teamId": 200,
+        "championId": 26,
+        "win_rate": 100.0
+    },
+    "Nydask": {
+        "id": "gRSigFedATe3XwQaj-HiAA3YFeQGDobgeuBc6C-lZIkn86k",
+        "accountId": "5m_z-JVfsIKZimlZKCT83TkgZ9FFant3vEcoNnwmL0cZD48",
+        "puuid": "NIis6IjMIyitMT9V38b7fCanEgr84f49y3n380wHrZ69JybA-uGVW9XHNpI1mRJlqLzqwD7DLuYkkg",
+        "teamId": 200,
+        "championId": 35,
+        "win_rate": 100.0
+    },
+    "JayK34": {
+        "id": "FsktkCPva3t_oeBFmU5rxR5umSQzRYlzdc1fcSnHPmdgxX4",
+        "accountId": "z-9tUs2QrzQQQkKZcpBQNr7oEZ_4SGD6JouS9DeQqF60ZJo",
+        "puuid": "AOPOCjTl6v5f0B8ec9rK-SaYR_J-KBW3RM6we-mzzmR-1yhmbmipLBRmIRxu6z1vFFppGZABknaR4w",
+        "teamId": 200,
+        "championId": 51,
+        "win_rate": 60.0
+    }
+}

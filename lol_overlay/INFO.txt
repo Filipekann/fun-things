@@ -3,6 +3,9 @@ NOT DONE
 Need development API key from RIOT.
 https://developer.riotgames.com
 
+Insperation?
+https://github.com/Giantpizzahead/league-win-predictor
+
 pip install riotwatcher
 
 Create your own API key.
